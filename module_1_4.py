@@ -1,4 +1,4 @@
-name = input("Напиши: Как дела? ")
+name = input("Введите текст: ")
 print(name.upper())
 print(name.lower())
 print(name.replace(' ', ''))
